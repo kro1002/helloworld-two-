@@ -1,4 +1,4 @@
 
 public class hello {
-ssss
+나의 생각은
 }
