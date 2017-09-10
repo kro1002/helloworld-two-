@@ -1,4 +1,10 @@
 
 public class hello {
-나의 생각은
+
+	
+	
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 }
